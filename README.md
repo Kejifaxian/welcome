@@ -23,7 +23,7 @@ dd4698ddd7b6a8939edca0c59d9d680488
 
 <h1>APP下载</h1>
 <P>ios翻墙APP下载 Potatso Lite<br />
-在Safari浏览器 <a target="_blank" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/xcxnig/ssr-download/master/potatso-lite.plist">点击下载&gt;&gt;</a><br />
+复制到Safari浏览器下载<br />
 <a target="_blank" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/xcxnig/ssr-download/master/potatso-lite.plist">itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/xcxnig/ssr-download/master/potatso-lite.plist</a><br />
 (可能下载比较慢，实在下载不了可以在APP Store下载，需要登录非国区的Apple ID)
 </p>
