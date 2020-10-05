@@ -11,6 +11,10 @@
 <P><a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases" target="_blank">SSR软件下载：ShadowsocksX-NG.zip</a></P>
 <P><a href="https://github.com/yanue/V2rayU/releases" target="_blank">v2Ray软件下载：V2rayU.dmg</a></P>
 <br>
+<h2>Clash软件下载</h2>
+<P><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank">Clash-Win版本 和 MAC版本 下载</a></P>
+<P><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank">Clash-Android版本下载</a></P>
+<br>
 <p>*下载软件时，打开网页找到Assets位置，可以看到下载文件</p>
 <br>
 <h1>telegram相关</h1>
