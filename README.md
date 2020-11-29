@@ -17,6 +17,9 @@
 <br>
 <p>*下载软件时，打开网页找到Assets位置，可以看到下载文件</p>
 <br>
+<h1>机场导航(精选)</h1>
+<P><a href="https://github.com/kjfx/kjfx" target="_blank">常用机场列表&gt;&gt;</a></P>
+<br>
 <h1>telegram相关</h1>
 <p>Telegram汉化方法: <a href="https://t.me/zh_CN" target="_blank">@zh_CN</a></p>
 
@@ -32,10 +35,4 @@ dd27f3f0fd9689c2888f1fd243e706ea9f
 https://t.me/proxy?server=bm.drproxy.pro&port=1043&secret=dd10f4469c42e2c035eab2ce40bd1c1099<br>
 bm.drproxy.pro:1043<br>
 dd10f4469c42e2c035eab2ce40bd1c1099
-</P>
-
-<P>
-https://t.me/proxy?server=bm.drproxy.pro&port=1045&secret=dd4698ddd7b6a8939edca0c59d9d680488<br>
-bm.drproxy.pro:1045<br>
-dd4698ddd7b6a8939edca0c59d9d680488
 </P>
