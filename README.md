@@ -17,8 +17,8 @@
 <br>
 <p>*下载软件时，打开网页找到Assets位置，可以看到下载文件</p>
 <br>
-<h1>机场导航(精选)</h1>
-<P><a href="https://github.com/kjfx/kjfx" target="_blank">常用机场列表&gt;&gt;</a></P>
+<h1>★机场导航(精选)★</h1>
+<P><a href="https://github.com/kjfx/kjfx" target="_blank">常用机场网站列表&gt;&gt;&gt;</a></P>
 <br>
 <h1>telegram相关</h1>
 <p>Telegram汉化方法: <a href="https://t.me/zh_CN" target="_blank">@zh_CN</a></p>
