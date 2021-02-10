@@ -8,7 +8,7 @@
 <P><a href="https://github.com/2dust/v2rayNG/releases" target="_blank">v2Ray APP下载：v2rayNG_1.2.4.apk</a></P>
 <br>
 <h2>MAC电脑软件下载</h2>
-<P><a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases" target="_blank">SSR软件下载：ShadowsocksX-NG.zip</a></P>
+<P><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8/ShadowsocksX-NG-R8.dmg" target="_blank">SSR软件下载：ShadowsocksX-NG.zip</a></P>
 <P><a href="https://github.com/yanue/V2rayU/releases" target="_blank">v2Ray软件下载：V2rayU.dmg</a></P>
 <br>
 <h2>Clash软件下载</h2>
