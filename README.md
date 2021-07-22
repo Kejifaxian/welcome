@@ -9,7 +9,8 @@
 <br>
 <h2>MAC电脑软件下载</h2>
 <P><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8/ShadowsocksX-NG-R8.dmg" target="_blank">SSR软件下载：ShadowsocksX-NG.zip</a></P>
-<P><a href="https://github.com/yanue/V2rayU/releases" target="_blank">v2Ray软件下载：V2rayU.dmg</a></P>
+<P><a href="https://github.com/yanue/V2rayU/releases" target="_blank">V2Ray软件下载：V2rayU.dmg</a></P>
+<P><a href="https://github.com/yichengchen/clashX/releases" target="_blank">Clash X 软件下载：ClashX.dmg</a></P>
 <br>
 <h2>Clash软件下载</h2>
 <P><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank">Clash-Win版本 和 MAC版本 下载</a></P>
