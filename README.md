@@ -3,11 +3,11 @@
 翻墙软件使用教程：https://www.youtube.com/playlist?list=PLdeeEkkRA6Bai4oE06pNdxi5V8dM84uPq
 </p>
 <h2>Windows软件下载</h2>
-<p><a href="https://github.com/2dust/v2rayN/releases" target="_blank">v2rayN软件下载：v2rayN-Core.zip</a></p>
+<p><a href="https://github.com/2dust/v2rayN/releases/latest" target="_blank">v2rayN软件下载：v2rayN-Core.zip</a></p>
 <p><a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">SSR软件下载：ShadowsocksR-win-4.9.2.zip</a></p>
 <br>
 <h2>安卓APP下载</h2>
-<P><a href="https://github.com/2dust/v2rayNG/releases" target="_blank">v2Ray APP下载：v2rayNG.apk</a></P>
+<P><a href="https://github.com/2dust/v2rayNG/releases/latest" target="_blank">v2Ray APP下载：v2rayNG.apk</a></P>
 <P><a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">SSR APP下载：shadowsocksr-android.apk</a></P>
 <br>
 <h2>MAC电脑软件下载</h2>
