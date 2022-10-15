@@ -1,6 +1,6 @@
 <h1>翻墙软件下载</h1>
 <p>请大家根据使用的系统下载对应的软件，主流的翻墙软件是V2ray、Clash、Shadowrocket<br>
-翻墙软件使用教程：https://www.youtube.com/playlist?list=PLdeeEkkRA6Bai4oE06pNdxi5V8dM84uPq
+翻墙软件使用教程：https://bit.ly/3TmvCPj
 </p>
 <h2>Windows软件下载</h2>
 <p><a href="https://github.com/2dust/v2rayN/releases/latest" target="_blank">v2rayN软件下载：v2rayN-Core.zip</a></p>
