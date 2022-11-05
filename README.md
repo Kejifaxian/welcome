@@ -34,3 +34,7 @@
 <h2>telegram代理</h2>
 <P>最近TG代理不稳定，暂时不更新，大家可以用代理软件</P>
 
+<h2>其它下载</h2>
+SSTap下载：<a href="https://github.com/Kejifaxian/welcome/releases/download/SSTap/SSTap.7z" target="_blank">点击下载>></a><br>
+.NET Framework：<a href="https://dotnet.microsoft.com/zh-cn/download/dotnet-framework" target="_blank">点击下载>></a><br>
+
