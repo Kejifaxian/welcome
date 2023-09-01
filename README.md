@@ -3,7 +3,7 @@
 翻墙软件使用教程：<a href="https://www.youtube.com/@kjfx6" target="_blank">点击打开>></a>
 </p>
 <h2>Windows软件下载</h2>
-<p><a href="https://github.com/2dust/v2rayN/releases/download/5.39/v2rayN-Core.zip" target="_blank">v2rayN 软件 点击下载>></a></p>
+<p><a href="https://github.com/2dust/v2rayN/releases/download/6.23/zz_v2rayN-With-Core-SelfContained.7z" target="_blank">v2rayN 软件 点击下载>></a></p>
 <p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.30/Clash.for.Windows-0.20.30-win.7z" target="_blank">Clash 软件 点击下载&gt;&gt;</a></p>
 <br>
 <h2>安卓APP下载</h2>
@@ -37,4 +37,5 @@
 .NET Framework 4.8：<a href="https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-web-installer" target="_blank">点击下载>></a><br>
 .NET 6.0：<a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-6.0.20-windows-x64-installer" target="_blank">点击下载>></a><br>
 Windows电脑如果无法打开软件，请先安装.NET Framework 4.8<br>
+<p><a href="https://github.com/2dust/v2rayN/releases/download/5.39/v2rayN-Core.zip" target="_blank">v2rayN 旧版 点击下载>></a></p>
 <p><a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">SSR软件下载：ShadowsocksR-win-4.9.2.zip</a></p>
