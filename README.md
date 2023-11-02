@@ -4,7 +4,7 @@
 </p>
 <h2>Windows软件下载</h2>
 <p><a href="https://github.com/2dust/v2rayN/releases/download/6.23/zz_v2rayN-With-Core-SelfContained.7z" target="_blank">v2rayN 软件 点击下载>></a></p>
-<p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.30/Clash.for.Windows-0.20.30-win.7z" target="_blank">Clash 软件 点击下载&gt;&gt;</a></p>
+<p><a href="https://github.com/eujc/rj/releases/download/clash/Clash-win.zip" target="_blank">Clash 软件 点击下载&gt;&gt;</a></p>
 <br>
 <h2>安卓APP下载</h2>
 <P><a href="https://github.com/2dust/v2rayNG/releases/download/1.8.5/v2rayNG_1.8.5.apk" target="_blank">v2rayNG APP下载>></a></P>
@@ -12,7 +12,7 @@
 <br>
 <h2>MAC电脑软件下载</h2>
 <P><a href="https://github.com/yichengchen/clashX/releases" target="_blank">Clash X 软件下载>></a></P>
-<P><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.30/Clash.for.Windows-0.20.30-mac.7z" target="_blank">Clash 软件下载>></a></P>
+<P><a href="https://github.com/eujc/rj/releases/download/clash/Clash-mac.zip" target="_blank">Clash 软件下载>></a></P>
 <P><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8/ShadowsocksX-NG-R8.dmg" target="_blank">SSR软件下载：ShadowsocksX-NG.zip</a></P>
 <P><a href="https://github.com/yanue/V2rayU/releases" target="_blank">V2Ray软件下载：V2rayU.dmg</a></P>
 <br>
