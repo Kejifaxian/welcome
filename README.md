@@ -3,7 +3,7 @@
 翻墙软件使用教程：<a href="https://www.youtube.com/@kjfx6" target="_blank">点击打开>></a>
 </p>
 <h2>Windows软件下载</h2>
-<p><a href="https://github.com/2dust/v2rayN/releases/download/6.31/zz_v2rayN-With-Core-SelfContained.7z" target="_blank">v2rayN 软件 点击下载>></a></p>
+<p><a href="https://github.com/2dust/v2rayN/releases/download/6.23/zz_v2rayN-With-Core-SelfContained.7z" target="_blank">v2rayN 软件 点击下载>></a></p>
 <p><a href="https://github.com/eujc/rj/releases/download/clash/Clash-win.zip" target="_blank">Clash 软件 点击下载&gt;&gt;</a></p>
 <br>
 <h2>安卓APP下载</h2>
