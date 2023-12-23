@@ -7,7 +7,7 @@
 <p><a href="https://github.com/eujc/rj/releases/download/clash/Clash-win.zip" target="_blank">Clash 软件 点击下载&gt;&gt;</a></p>
 <br>
 <h2>安卓APP下载</h2>
-<P><a href="https://github.com/2dust/v2rayNG/releases/download/1.8.12/v2rayNG_1.8.12.apk" target="_blank">v2rayNG APP下载>></a></P>
+<P><a href="https://github.com/2dust/v2rayNG/releases/download/1.8.5/v2rayNG_1.8.5.apk" target="_blank">v2rayNG APP下载>></a></P>
 <P><a href="https://github.com/eujc/rj/releases/download/clash/Clash-Android.apk" target="_blank">Clash APP下载>></a></P>
 <br>
 <h2>MAC电脑软件下载</h2>
