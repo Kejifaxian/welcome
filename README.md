@@ -23,11 +23,12 @@
 <br>
 <p>*下载软件时，打开网页找到Assets位置，可以看到下载文件</p><br>
 <h2>iOS翻墙APP下载</h2>
-<P>请在AppStore下载 Shadowrocket（小火箭），用美区ID登录下载。</P>
+<P>请在AppStore下载 Shadowrocket（小火箭），用美区ID登录下载。<br>
 <a href="https://github.com/kjfx/AppleID" target="_blank">美区 Apple ID 注册教程>></a>
-<br>
+</P><br>
+
 <h1>★机场推荐(精选)★</h1>
-<P><a href="https://github.com/kjfx/kjfx" target="_blank">常用机场网站列表&gt;&gt;&gt;</a></P>
+<P>✈<a href="https://github.com/kjfx/kjfx" target="_blank">常用机场网站列表&gt;&gt;&gt;</a></P>
 <br>
 <h1>telegram相关</h1>
 <p>Telegram汉化方法: <a href="https://t.me/txxdh1" target="_blank">@txxdh1</a>
