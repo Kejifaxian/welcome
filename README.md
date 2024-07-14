@@ -5,6 +5,7 @@
 <h2>Windows软件下载</h2>
 <p><a href="https://github.com/2dust/v2rayN/releases/download/6.23/zz_v2rayN-With-Core-SelfContained.7z" target="_blank">v2rayN 软件 点击下载>></a></p>
 <p><a href="https://github.com/eujc/rj/releases/download/clash/Clash-win.zip" target="_blank">Clash 软件 点击下载&gt;&gt;</a></p>
+<p><a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.3/Clash.Verge_1.7.3_x64_portable.zip" target="_blank">Clash Verge 点击下载&gt;&gt;</a></p>
 <br>
 <h2>安卓APP下载</h2>
 <P><a href="https://github.com/2dust/v2rayNG/releases/download/1.8.5/v2rayNG_1.8.5.apk" target="_blank">v2rayNG APP下载>></a></P>
