@@ -4,22 +4,22 @@
 </p>
 <h2>Windows软件下载</h2>
 <p><a href="https://github.com/2dust/v2rayN/releases/download/6.23/zz_v2rayN-With-Core-SelfContained.7z" target="_blank">v2rayN 软件 点击下载>></a></p>
-<p><a href="https://github.com/eujc/rj/releases/download/clash/Clash-win.zip" target="_blank">Clash 软件 点击下载&gt;&gt;</a></p>
+<p><a href="https://github.com/uyez/rj/releases/download/clash/Clash-win.zip" target="_blank">Clash 软件 点击下载&gt;&gt;</a></p>
 <p><a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.3/Clash.Verge_1.7.3_x64_portable.zip" target="_blank">Clash Verge 点击下载&gt;&gt;</a></p>
 <br>
 <h2>安卓APP下载</h2>
 <P><a href="https://github.com/2dust/v2rayNG/releases/download/1.8.5/v2rayNG_1.8.5.apk" target="_blank">v2rayNG APP下载>></a></P>
-<P><a href="https://github.com/eujc/rj/releases/download/clash/Clash-Android.apk" target="_blank">Clash APP下载>></a></P>
+<P><a href="https://github.com/uyez/rj/releases/download/clash/Clash-Android.apk" target="_blank">Clash APP下载>></a></P>
 <br>
 <h2>MAC电脑软件下载</h2>
-<P><a href="https://github.com/eujc/rj/releases/download/ClashX/ClashX.dmg" target="_blank">Clash X 软件下载>></a></P>
-<P><a href="https://github.com/eujc/rj/releases/download/clash/Clash-mac.zip" target="_blank">Clash 软件下载>></a></P>
+<P><a href="https://github.com/uyez/rj/releases/download/ClashX/ClashX.dmg" target="_blank">Clash X 软件下载>></a></P>
+<P><a href="https://github.com/uyez/rj/releases/download/clash/Clash-mac.zip" target="_blank">Clash 软件下载>></a></P>
 <P><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8/ShadowsocksX-NG-R8.dmg" target="_blank">SSR软件下载：ShadowsocksX-NG.zip</a></P>
 <P><a href="https://github.com/yanue/V2rayU/releases" target="_blank">V2Ray软件下载：V2rayU.dmg</a></P>
 <br>
 <h2>Clash软件下载</h2>
-<P><a href="https://github.com/eujc/rj/releases/download/ClashX/Clash.for.Windows-0.20.39-win.7z" target="_blank">Clash-Win版本 和 MAC版本 下载</a></P>
-<P><a href="https://github.com/eujc/rj/releases/download/clash/Clash-Android.apk" target="_blank">Clash-Android版本下载</a></P>
+<P><a href="https://github.com/uyez/rj/releases/download/ClashX/Clash.for.Windows-0.20.39-win.7z" target="_blank">Clash-Win版本下载</a></P>
+<P><a href="https://github.com/uyez/rj/releases/download/clash/Clash-Android.apk" target="_blank">Clash-Android版本下载</a></P>
 <br>
 <p>*下载软件时，打开网页找到Assets位置，可以看到下载文件</p><br>
 <h2>iOS翻墙APP下载</h2>
