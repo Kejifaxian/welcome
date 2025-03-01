@@ -3,7 +3,7 @@
 翻墙软件使用教程：<a href="https://www.youtube.com/@kjfx6" target="_blank">点击打开>></a>
 </p>
 <h2>Windows软件下载</h2>
-<p>v2rayN 软件 <a href="https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-SelfContained.zip" target="_blank">新版下载>></a> ， <a href="https://github.com/2dust/v2rayN/releases/download/6.23/zz_v2rayN-With-Core-SelfContained.7z" title="如果节点不能使用，请下载旧版使用" target="_blank">旧版下载&gt;&gt;</a></p>
+<p><a href="https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-SelfContained.zip" target="_blank">v2rayN 点击下载>></a></p>
 <p><a href="https://github.com/uyez/rj/releases/download/clash/Clash-win.zip" target="_blank">Clash 点击下载&gt;&gt;</a></p>
 <p><a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe" target="_blank">Clash Verge 点击下载&gt;&gt;</a></p>
 <p><a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Portable-x64.zip" target="_blank">Hiddify 点击下载>></a></p>
