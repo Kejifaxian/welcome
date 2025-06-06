@@ -15,7 +15,7 @@
 <br>
 <h2>MAC电脑软件下载</h2>
 <P><a href="https://github.com/uyez/rj/releases/download/ClashX/ClashX.dmg" target="_blank">Clash X 软件下载>></a></P>
-<P><a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_aarch64.dmg" target="_blank">Clash Verge 软件下载>></a></P>
+<P><a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.3/Clash.Verge_2.2.3_aarch64.dmg" target="_blank">Clash Verge 下载 M芯片>></a> | <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.3/Clash.Verge_2.2.3_x64.dmg" target="_blank">Intel&gt;&gt;</a></P>
 <P><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8/ShadowsocksX-NG-R8.dmg" target="_blank">SSR软件下载：ShadowsocksX-NG.zip</a></P>
 <P><a href="https://github.com/2dust/v2rayN/releases/latest" target="_blank">V2Ray软件下载>></a></P>
 <br>
