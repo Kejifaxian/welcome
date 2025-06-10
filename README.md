@@ -6,7 +6,7 @@
 <p><a href="https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-SelfContained.zip" target="_blank">v2rayN 点击下载>></a></p>
 <p><a href="https://github.com/uyez/rj/releases/download/clash/Clash-win.zip" target="_blank">Clash 点击下载&gt;&gt;</a></p>
 <p><a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe" target="_blank">Clash Verge 点击下载&gt;&gt;</a></p>
-<p><a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Portable-x64.zip" target="_blank">Hiddify 点击下载>></a></p>
+<p><a href="https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.7.5/mihomo-party-windows-1.7.5-x64-setup.exe" target="_blank">Mihomo Party 点击下载>></a></p>
 <br>
 <h2>安卓APP下载</h2>
 <P><a href="https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_arm64-v8a.apk" target="_blank">v2rayNG APP下载>></a></P>
