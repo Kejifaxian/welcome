@@ -18,6 +18,7 @@
 <P><a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.3/Clash.Verge_2.2.3_aarch64.dmg" target="_blank">Clash Verge 下载 M芯片>></a> | <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.3/Clash.Verge_2.2.3_x64.dmg" target="_blank">Intel&gt;&gt;</a></P>
 <P><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8/ShadowsocksX-NG-R8.dmg" target="_blank">SSR软件下载：ShadowsocksX-NG.zip</a></P>
 <P><a href="https://github.com/2dust/v2rayN/releases/latest" target="_blank">V2Ray软件下载>></a></P>
+<P><a href="https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.7.5/mihomo-party-macos-1.7.5-arm64.pkg" target="_blank">Mihomo Party 下载 M芯片>></a> | <a href="https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.7.5/mihomo-party-macos-1.7.5-x64.pkg" target="_blank">Intel&gt;&gt;</a></P>
 <br>
 <h2>Clash软件下载</h2>
 <P><a href="https://github.com/uyez/rj/releases/download/ClashX/Clash.for.Windows-0.20.39-win.7z" target="_blank">Clash-Win版本下载</a></P>
