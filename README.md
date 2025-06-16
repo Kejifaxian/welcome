@@ -40,7 +40,7 @@
 
 <h2>其它下载</h2>
 .NET Framework 4.8：<a href="https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-web-installer" target="_blank">点击下载>></a><br>
-.NET 6.0：<a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-6.0.20-windows-x64-installer" target="_blank">点击下载>></a><br>
+.NET 8.0：<a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.0-preview.1-windows-x64-installer" target="_blank">点击下载>></a><br>
 Windows电脑如果无法打开软件，请先安装.NET Framework 4.8<br>
 <p><a href="https://github.com/2dust/v2rayN/releases/download/5.39/v2rayN-Core.zip" target="_blank">v2rayN 旧版 点击下载>></a><br/>
 <a href="https://github.com/2dust/v2rayNG/releases/download/1.8.5/v2rayNG_1.8.5.apk" target="_blank">v2rayNG旧版 点击下载>></a><br/>
